@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\Media\source\repos\Symulowanie wody\Main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Media\source\repos\Symulowanie wody\OBJ_Loader.h(949,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Media\source\repos\Symulowanie wody\Main.cpp(213,29): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Media\source\repos\Symulowanie wody\Main.cpp(218,29): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Media\source\repos\Symulowanie wody\Main.cpp(223,29): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Media\source\repos\Symulowanie wody\Main.cpp(228,29): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Media\source\repos\Symulowanie wody\Main.cpp(266,105): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Symulowanie wody.vcxproj -> C:\Users\Media\source\repos\Symulowanie wody\x64\Debug\Symulowanie wody.exe
