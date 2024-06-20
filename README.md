@@ -9,6 +9,19 @@ Librarys and so on used in application:
 - GLFW
 
 ## Description
+The project consists of 2 header files and 1 source file :
+
+IncludeHeaders.h - for better convenience, most of the needed #include notations and the used
+namespaces used are written in this header file.
+
+Model.h - the file contains a class whose methods are used to : initialize shaders, upload the
+3D model, drawing the model, and a number of universal functions for passing matrices from the
+program to the shader.
+
+Main.cpp - the most important file of the application, which contains the main loop of the program. It is responsible for
+initialization of shaders and models and their placement on the scene, provides support for controlling
+camera movements for the user, for testing purposes it calculates the initialization times of shaders and
+models uploaded to the scene.
 
 ## Images
 ![](GitHub_images/01_WaterSimulation.png)
