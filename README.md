@@ -1,5 +1,5 @@
 # Water_simulation
-Water surface simulation with polygons, wave simulation surface using C++ ans OpenGL.
+Water surface simulation with polygons, wave simulation of the surface using C++ ans OpenGL.
 
 Librarys and tools used in application:
 - GLM
