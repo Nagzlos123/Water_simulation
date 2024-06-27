@@ -1,8 +1,7 @@
 # Water_simulation
-Water surface simulation with polygons, wave simulation surface using C++.
+Water surface simulation with polygons, wave simulation surface using C++ ans OpenGL.
 
-Librarys and so on used in application:
-- OpenGL
+Librarys and tools used in application:
 - GLM
 - GLEW
 - OBJ loader
@@ -11,6 +10,7 @@ Librarys and so on used in application:
 ## Description
 
 Models were created in Blender then were loaded as obj files into the scene using OBJ loader. 
+Shaders were used to light the scene. Waves are created by changing the height of points in the grid.
 
 The project consists of 2 header files and 1 source file :
 
